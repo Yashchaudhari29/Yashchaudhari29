@@ -15,4 +15,3 @@ I am an extrovert person and I have number<br>of friends. Moreover to distress m
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=YASH CHAUDHARI&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
