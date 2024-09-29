@@ -11,7 +11,7 @@
   
 <h1 align="left">😇Connect with me:</h1>
 <p align="left">
-    <a href="www.linkedin.com/in/yash-chaudhari-254961242/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+    <a href="[www.linkedin.com/in/yash-chaudhari-254961242/](https://www.linkedin.com/in/yash-chaudhari-254961242/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
     <a href='https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=yashchaudhari802@gmail.com' target="_blank"><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/></a>
     <a href='https://yashchaudhari29.github.io/' target="_blank"><img src='https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white'/></a>
 
