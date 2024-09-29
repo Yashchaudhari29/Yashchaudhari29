@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yash Chaudhari</h1>
+<h1 align="center">Hello (<img style='width:40px; height:40px;' align='center' src='./wave-hello.gif'/>), I'm Yash Chaudhari</h1>
 <h3 align="left">A Passionate Data Scientist and Machine Learning developer pursuing BE-IT at LDRP-ITR (CPI 8+). Proficient in Python, Django, web technologies (HTML, CSS, JS), and both SQL and NoSQL databases. Experienced in data analysis, predictive modeling, and building scalable web applications. Committed to open-source contributions and continuously expanding my tech stack. Seeking to leverage my skills in innovative projects that push the boundaries of AI and data-driven solutions. Let's connect and create something extraordinary!</h3>
 
 
