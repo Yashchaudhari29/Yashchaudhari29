@@ -7,7 +7,7 @@
 - 👨‍💻 All of my projects are available at [My Github Repository](My Github Repository)
 
 - ⚡ Fun fact : **Off the screen, you’ll catch me playing volleyball 🏐**
-- 📑 For CV [click me👆](https://yashchaudhari29.github.io/)
+- 📑 For CV [click me👆]([https://yashchaudhari29.github.io/](https://drive.google.com/file/d/1avEAjF9rHNbPDVRRHPu_tZZDH_Vy1SBb/view?usp=sharing))
   
 <h1 align="left">😇Connect with me:</h1>
 <p align="left">
